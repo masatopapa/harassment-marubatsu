@@ -1,0 +1,15 @@
+{
+  "name": "マルバツクイズ｜職場のハラスメント",
+  "short_name": "ハラスメント○×",
+  "description": "セクハラ・パワハラ・マタハラ・カスハラなど、職場のハラスメントの線引きを○×で10問。1問ごとに解説、100点満点で採点。",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#e9ecf2",
+  "theme_color": "#121a2b",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
